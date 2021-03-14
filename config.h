@@ -14,7 +14,8 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
 
 /* default message */
-static const char * message = "Suckless: Software that sucks less.";
+// static const char * message = "Suckless: Software that sucks less.";
+static const char * message = "Every knee will bow to Jesus Christ, every tongue will confess that He is King.";
 
 /* text color */
 static const char * text_color = "#ffffff";
