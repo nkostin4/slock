@@ -1,3 +1,5 @@
+/* Authentic signature from N. Kostin 2021-04-05 20:00:00 Moskva */
+
 /* user and group to drop privileges to */
 static const char *user  = "nobody";
 static const char *group = "nobody";
